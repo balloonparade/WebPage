@@ -2,12 +2,12 @@
 
 #### Current experience
 
--Python
--C#
--Html/CSS
--Kotlin
+- Python
+- C#
+- Html/CSS
+- Kotlin
 
 #### Certifications
 
--MTA 98-361
--MTA 98-381
+- MTA 98-361
+- MTA 98-381
