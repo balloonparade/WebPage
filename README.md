@@ -1,3 +1,15 @@
-## This is a dissapointingly empty webpage
+##Hi, my name is balloonparade. Welcome to my homepage.
 
-#### Nothing exists here
+###I am currently working towards my first level Kotlin certification
+
+####Current experience
+
+-Python
+-C#
+-Html/CSS
+-Kotlin
+
+####Certifications
+
+-MTA 98-361
+-MTA 98-381
