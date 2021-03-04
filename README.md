@@ -1,7 +1,3 @@
-## Welcome to CrazyCarl's GitHub Page
+## This is a dissapointingly empty webpage
 
-### Here, only the craziest survive!
-
-
-- Bulleted
-- List
+#### Nothing exists here
