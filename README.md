@@ -1,13 +1,13 @@
-###I am currently working towards my first level Kotlin certification
+## I am a learning programmer currently working towards my first level Kotlin certification
 
-####Current experience
+#### Current experience
 
 -Python
 -C#
 -Html/CSS
 -Kotlin
 
-####Certifications
+#### Certifications
 
 -MTA 98-361
 -MTA 98-381
